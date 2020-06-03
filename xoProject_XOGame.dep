@@ -1,0 +1,11 @@
+Dependencies for Project 'xoProject', Target 'XOGame': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5ECEB6D8)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\xo.c)(0x5ED1ED4C)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\xo.o --omf_browse .\xo.crf --depend .\xo.d)
+I (xo.h)(0x5ED13E7B)
+I (tm4c123gh6pm.h)(0x51D45492)
+I (Nokia5110.h)(0x5B39DF12)
+I (TExaS.h)(0x569B5526)
+F (.\Nokia5110.c)(0x5B39DF12)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\nokia5110.o --omf_browse .\nokia5110.crf --depend .\nokia5110.d)
+I (Nokia5110.h)(0x5B39DF12)
+F (.\TExaS.c)(0x569B5546)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\texas.o --omf_browse .\texas.crf --depend .\texas.d)
+I (TExaS.h)(0x569B5526)
