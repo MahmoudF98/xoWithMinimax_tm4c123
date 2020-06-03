@@ -1,3 +1,4 @@
+# xoWithMinimax_tm4c123 #
 •	Press Switch 1 for 1 vs 1 game, and Switch 2 for a game versus AI.
 
 •	Press Switch 1 for moving the cursor to the desired position on the grid.
